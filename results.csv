@@ -1,0 +1,6 @@
+Result;Filename;Remove Punctuation;Remove Stopwords;Use Stemming;Random State;Loss Algorithm;Max Iterations;Batch Size;Language;Amount Validation Data;Iterations
+0.808;trainingsdata/training_gesamt_extended_cutted_shuffled.csv;True;True;False;5;log;1;200;german;500;19
+0.816;trainingsdata/training_gesamt_extended_cutted_shuffled.csv;True;True;False;5;log;1;100;german;500;38
+0.7933333333333333;trainingsdata/training_gesamt_extended_cutted_shuffled.csv;True;True;False;5;log;1;100;german;750;36
+0.8672;trainingsdata/movie_data.csv;True;True;False;1;log;1;1000;english;5000;45
+0.8728;trainingsdata/movie_data.csv;True;True;True;1;log;1;2500;english;5000;18
